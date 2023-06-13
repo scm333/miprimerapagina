@@ -27,6 +27,9 @@ p { display: grid;
     margin: auto;
     padding: 20px;
 }
+.greeting {
+  text-align: center;
+}
 .img-container {
   display: flex;
   flex-wrap: wrap;
